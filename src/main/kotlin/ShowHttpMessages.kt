@@ -173,7 +173,7 @@ private fun Boolog.renderHeadersAndBody(headers: HttpHeaders, stringPayload: Str
             val identifier1 = UUID.randomUUID().toString()
             result.append("<label for=\"$identifier1\">\r\n<input id=\"$identifier1\" type=\"checkbox\">\r\n(show ${headerMap.keys.size} headers)\r\n<div class=\"${this.encapsulationTag}\">\r\n")
             result.append(renderedHeaders)
-            result.append("</div></label>");
+            result.append("</div></label>")
         } else {
             result.append(renderedHeaders)
         }
@@ -195,7 +195,7 @@ private fun Boolog.renderHeadersAndBody(headers: HttpHeaders, stringPayload: Str
         if (size > MAX_BODY_LENGTH_TO_DISPLAY) {
             val identifier2 = UUID.randomUUID().toString()
             result.append("<label for=\"$identifier2\">\r\n<input id=\"$identifier2\" type=\"checkbox\">\r\n(show large payload)\r\n<div class=\"${this.encapsulationTag}\">\r\n")
-            result.append(renderedBody);
+            result.append(renderedBody)
             result.append("</div></label>")
         } else {
             result.append(renderedBody)
