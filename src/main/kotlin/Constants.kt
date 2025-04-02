@@ -19,7 +19,7 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 // OTHER DEALINGS IN THE SOFTWARE.
 
-package hoodland.opensource.boolog
+package io.github.william_hood.boolog_kotlin
 
 const val EMOJI_SETUP = "🛠"
 const val EMOJI_CLEANUP = "🧹"

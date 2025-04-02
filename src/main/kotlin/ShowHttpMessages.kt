@@ -19,7 +19,7 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 // OTHER DEALINGS IN THE SOFTWARE.
 
-package hoodland.opensource.boolog
+package io.github.william_hood.boolog_kotlin
 
 import io.github.william_hood.toolbox_kotlin.isSuccessfulStatusCode
 import io.github.william_hood.toolbox_kotlin.toStatusCodeDescription

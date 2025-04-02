@@ -1,4 +1,4 @@
-package hoodland.opensource.boolog
+package io.github.william_hood.boolog_kotlin
 
 const val THEME_DARK_GRADIENT = """
     <style>
