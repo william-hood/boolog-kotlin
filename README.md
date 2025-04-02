@@ -7,11 +7,19 @@ Boolog allows your Kotlin program to log directly to an HTML file. This will hel
 visualize what goes on with back-end processes, such as a cloud service or a test suite against REST API calls.
 (Boolog is the "spiritual" successor of an automated test logger project created at one of the author's previous places of employment.)
 
-### To install for use in your project
-### `go get github.com/william-hood/boolog-go`
+### To use in your project, add the following dependencies to your `pom.xml` file...
+```
+<dependencies>
+    <dependency>
+        <groupId>io.github.william-hood</groupId>
+        <artifactId>boolog-kotlin</artifactId>
+        <version>3.1.0</version>
+    </dependency>
+</dependencies>
+```
 ---
 ## Example Code
-For usage, refer to this example program and Go Doc comments.
+For usage, refer to this example program and the JavaDoc comments.
 
 [Example Program](src/test/kotlin/main.kt)
 
@@ -30,7 +38,7 @@ To get the archive, click [here](examples/Theme-Examples.zip) and then click the
 
 ---
 ## MIT License
-Copyright (c) 2025 William Arthur Hood
+Copyright (c) 2020, 2021, 2022, 2023, 2025 William Arthur Hood
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
