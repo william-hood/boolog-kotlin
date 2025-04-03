@@ -3,6 +3,12 @@
 
 **Rich Logging System**
 
+*Go version [here](https://github.com/william-hood/boolog-go)*
+
+*Rust version [here](https://github.com/william-hood/boolog-rust)*
+
+*Java version (coming soon)*
+
 Boolog allows your Kotlin program to log directly to an HTML file. This will help developers and managers alike better
 visualize what goes on with back-end processes, such as a cloud service or a test suite against REST API calls.
 (Boolog is the "spiritual" successor of an automated test logger project created at one of the author's previous places of employment.)
