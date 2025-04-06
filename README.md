@@ -8,7 +8,6 @@
 
 *Rust version [here](https://github.com/william-hood/boolog-rust)*
 
-*Java & JUnit versions (coming soon)*
 <hr>
 <img align="left" src="examples/boolog-logo-sm.gif">
 
