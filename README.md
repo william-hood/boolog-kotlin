@@ -1,4 +1,8 @@
-# BOOLOG
+# BOOLOG for Kotlin
+
+*Java version [here](https://github.com/william-hood/boolog-java)*
+
+*JUnit Testing version [here](https://github.com/william-hood/boolog-junit)*
 
 *Go version [here](https://github.com/william-hood/boolog-go)*
 
