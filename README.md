@@ -27,6 +27,8 @@ For usage, refer to this example program and the JavaDoc comments.
 
 [Example Program](src/test/kotlin/main.kt)
 
+*If you run the example code on your system, expect the actual log file to appear in `(User Home)/Documents/Test Results`.*
+
 ## Supported Themes
 
 [Themes Poster (GIF)](examples/Poster.gif)
